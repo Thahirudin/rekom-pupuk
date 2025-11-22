@@ -1,3 +1,4 @@
+## Rename File .env.exmple menjadi env
 ## Lakukan Instalasi di Terminal
 - `composer install`
 
@@ -13,6 +14,3 @@
 ## Jalankan Web
 - Jalankan di Terminal `php artisan serve` dan `npm run dev`
 - Web sudah bisa dibuka di chrome http://127.0.0.1:8000/
-
-
-
