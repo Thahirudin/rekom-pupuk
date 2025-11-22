@@ -1,5 +1,5 @@
-## Rename File .env.exmple menjadi env
 ## Lakukan Instalasi di Terminal
+- Rename File .env.example menjadi env
 - `composer install`
 
 - `npm run dev`
